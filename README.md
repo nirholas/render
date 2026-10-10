@@ -259,3 +259,30 @@ Apache-2.0
 ---
 
 Part of [three.ws](https://three.ws), the open-source platform for 3D AI agents. This repository is exported from the [monorepo](https://github.com/nirholas/three.ws/tree/main/packages/render), which is the source of truth: open issues here, and send larger changes there.
+
+<!-- three.ws:growth -->
+## Support the project
+
+If render saves you time, **[star it on GitHub](https://github.com/nirholas/render)**. Stars are how other developers and AI agents find the repositories worth trusting, and they cost you one click.
+
+Know someone who would use it? [Post on X](https://twitter.com/intent/tweet?text=render%3A%20Render%20rigged%2C%20animated%203D%20avatars%20to%20PNG%2C%20GIF%20and%20truecolor%20terminal%20ANSI%20with%20no%20GPU%2C%20no%20WebGL&url=https%3A%2F%2Fgithub.com%2Fnirholas%2Frender) · [Share on Bluesky](https://bsky.app/intent/compose?text=render%3A%20Render%20rigged%2C%20animated%203D%20avatars%20to%20PNG%2C%20GIF%20and%20truecolor%20terminal%20ANSI%20with%20no%20GPU%2C%20no%20WebGL%20https%3A%2F%2Fgithub.com%2Fnirholas%2Frender) · [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Fnirholas%2Frender) · [Submit to Hacker News](https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fgithub.com%2Fnirholas%2Frender&t=render%3A%20Render%20rigged%2C%20animated%203D%20avatars%20to%20PNG%2C%20GIF%20and%20truecolor%20terminal%20ANSI%20with%20no%20GPU%2C%20no%20WebGL) · [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2Fnirholas%2Frender&title=render%3A%20Render%20rigged%2C%20animated%203D%20avatars%20to%20PNG%2C%20GIF%20and%20truecolor%20terminal%20ANSI%20with%20no%20GPU%2C%20no%20WebGL)
+
+## Built for AI agents too
+
+Coding agents and LLM tooling can read this repo directly: [AGENTS.md](./AGENTS.md), [llms.txt](./llms.txt), [llms-full.txt](./llms-full.txt). Point an agent at `https://github.com/nirholas/render` and it has the context it needs.
+
+## More from the same author
+
+- [All repositories by nirholas](https://github.com/nirholas/nirholas#readme): the full catalog, grouped by topic
+- [three.ws](https://three.ws): the platform for 3D AI agents with Solana wallets, a skill marketplace and x402 payments
+- Questions or ideas: [open an issue](https://github.com/nirholas/render/issues) or [start a discussion](https://github.com/nirholas/render/discussions)
+
+## Contributors
+
+[![Contributors](https://contrib.rocks/image?repo=nirholas/render)](https://github.com/nirholas/render/graphs/contributors)
+
+## Star history
+
+[![Star History Chart](https://api.star-history.com/svg?repos=nirholas/render&type=Date)](https://www.star-history.com/#nirholas/render&Date)
+
+<!-- /three.ws:growth -->
