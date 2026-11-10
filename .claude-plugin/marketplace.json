@@ -1,0 +1,19 @@
+{
+  "name": "three-ws-render",
+  "owner": {
+    "name": "nirholas"
+  },
+  "description": "Render rigged, animated glTF/GLB avatars to PNG, animated PNG and terminal output with a pure JavaScript software rasterizer.",
+  "plugins": [
+    {
+      "name": "three-ws-render",
+      "source": "./",
+      "description": "Render rigged, animated glTF/GLB avatars to PNG, animated PNG and terminal output with a pure JavaScript software rasterizer.",
+      "tags": [
+        "3d",
+        "render",
+        "glb"
+      ]
+    }
+  ]
+}
