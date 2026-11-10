@@ -6,6 +6,7 @@
     "name": "nirholas"
   },
   "repository": "https://github.com/nirholas/render",
+  "homepage": "https://nirholas.github.io/render/",
   "license": "Apache-2.0",
   "keywords": [
     "three-ws",
@@ -15,6 +16,5 @@
     "avatar",
     "software-renderer",
     "png"
-  ],
-  "homepage": "https://nirholas.github.io/render/"
+  ]
 }
